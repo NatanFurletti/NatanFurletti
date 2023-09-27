@@ -1,4 +1,5 @@
-<img width="auto" src="https://ik.imagekit.io/t58nj4hrrhv/neverstoplearning_KsHDH5f5T.jpg">
+< img width="auto" src="https://uploaddeimagens.com.br/imagens/vA1FdQo">
+
 
 
 # Natan Furletti
