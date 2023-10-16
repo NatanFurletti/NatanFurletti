@@ -1,6 +1,3 @@
-<img width="auto" src="https://i.postimg.cc/XJpBQkwj/O-Jogo-da-Imitacao-P-ster-Nacional.jpg">
-
-
 
 # Natan Furletti
 
