@@ -2,12 +2,11 @@
 # Natan Furletti
 
 ## Hello World!👋
-Eu sou desenvolvedor Back-end e adoro aprendizagem contínua.<br/>
-Atualmente estou estudando e trabalhando com Javascript utilizando NodeJS.:computer:
+Sou desenvolvedor backend com foco em Node.js, criando APIs rápidas, seguras e escaláveis. Tenho experiência no desenvolvimento de sistemas, integração com bancos de dados e construção de soluções eficientes para aplicações web. Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para entregar código limpo e bem estruturado. 🚀
 
- :rocket:  &nbsp; A procura de novos projetos :rocket:
+ :rocket:  &nbsp;  :rocket:
  
- <br/> 💬  &nbsp; Sobre mim: Sou fan de tecnologia, games e de fazer um bom hamburguer :yum:
+ <br/> 💬  &nbsp; Sobre mim: Nerd que adora uma escalada, peteca, bike, e ate mesmo fazer um sushi de salmão negro :yum:
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Natan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/natan-furletti/)
 [![Gmail Badge](https://img.shields.io/badge/-natan.furletti@outlook.com-red?style=flat-square&link=mailto:natan.furletti@outlook.com)](mailto:natan.furletti@outlook.com)
 
